@@ -35,7 +35,7 @@ public class Test : MonoBehaviour
 
         for (int i = 4; i >= 0; i--)
         {
-            Debug.Log(i);
+            Debug.Log(array[i]);
         }
     }
 
